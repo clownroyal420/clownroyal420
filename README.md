@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @clownroyal420
+- 🌱 I’m currently learning ...
+  - PowerShell
+  - BASH
+  - AutoHotkey
+- 💞️ I’m looking to collaborate on ...
+  - Fun scripts
+  - Sane default settings (for window managers, scripts, or anything really)
+- Best way to reach me is @Dave.773 on Signal Messenger
